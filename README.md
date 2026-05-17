@@ -144,7 +144,7 @@ projeto-integrador-grupo/
 | 2 | Desenvolvimento do script ETL (`etl.py`) | Victor, Lucas G, Rafael e Allessander | 18/05/2026 |
 | 2 | Tratamento e limpeza dos dados com Pandas | Rafael, Sabrina e Lucas D | 18/05/2026 |
 | 2 | Desenvolvimento do dashboard Streamlit | Victor, Lucas G, Rafael e Allessander | 18/05/2026 |
-| 2 | Testes, ajustes e entrega final | Grupo | A confirmar |
+| 2 | Testes, ajustes e entrega final | Grupo | 18/05/2026 |
 
 ---
 
