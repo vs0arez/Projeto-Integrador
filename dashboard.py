@@ -13,6 +13,13 @@
 #   - Grafico de barras: Estado civil das vitimas
 #   - Sidebar com filtros interativos: ano, UF e raca/cor
 
+# -----------------------------------------------------------------------
+# LEMBRETE PARA O DEPLOY (NUVEM):
+# Para que este código funcione no Streamlit Cloud, é obrigatório existir 
+# um arquivo chamado 'requirements.txt' na mesma pasta deste script.
+# Esse arquivo serve para informar ao servidor quais bibliotecas externas 
+# (como o plotly, pandas, etc.) ele precisa instalar para o app rodar.
+# -----------------------------------------------------------------------
 
 import streamlit as st
 import pandas as pd
