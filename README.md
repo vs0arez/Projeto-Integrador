@@ -111,6 +111,9 @@ Você pode acessar a aplicação funcionando e interagir com todos os filtros e 
  **[Acessar o Dashboard Flor de Aço](https://projeto-integrador-u2zulexp8qex3ngsrzhmjy.streamlit.app/)**
 
 *Nota: O ambiente na nuvem já foi configurado usando o arquivo `requirements.txt` para fazer a instalação automática das bibliotecas (como o Plotly e o Pandas).*
+
+---
+
 ## Estrutura de Pastas do Repositório
 
 ```
